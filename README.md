@@ -1,2 +1,35 @@
-# tour-de-france-analysis
-Tour de France stage performance analysis using SQL and Power BI
+# Tour de France Analysis Project
+
+This project explores stage-level performance data from the 2024 Tour de France.  
+It includes data cleaning, SQL-based transformations, and visualization in Power BI.  
+
+## 🔍 Goal
+
+To analyze rider and team performance, detect trends across stage types, and simulate how different conditions affect results.
+
+## 📁 Project structure
+
+/data           → Raw and cleaned CSVs  
+/sql            → SQL transformations  
+/reports        → Power BI dashboard screenshots  
+README.md       → Project documentation  
+
+
+## 🛠️ Technologies
+
+- PostgreSQL
+- Power BI
+- GitHub
+
+## 📊 Sample questions
+
+- Which riders are most consistent?
+- How does stage type affect performance?
+- Which teams dominate mountain stages?
+
+## 🧠 Outcomes
+
+- Built an incremental data pipeline
+- Cleaned and modeled race data into facts and dimensions
+- Created dynamic visualizations
+- Gained end-to-end experience in a realistic data scenario
