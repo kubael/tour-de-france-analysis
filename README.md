@@ -17,10 +17,11 @@ README.md       → Project documentation
 
 ## 🛠️ Technologies
 
-- PostgreSQL
-- Power Query
-- Power BI
-- GitHub
+- Power BI (visualizations, data modeling)
+- Power Query (ETL)
+- Microsoft Excel (Power Query, pivot tables)
+- PostgreSQL (SQL querying and joins)
+- Git & GitHub (version control, documentation)
 
 ## 📊 Sample questions
 
