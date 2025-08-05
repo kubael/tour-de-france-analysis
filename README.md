@@ -18,6 +18,7 @@ README.md       → Project documentation
 ## 🛠️ Technologies
 
 - PostgreSQL
+- Power Query
 - Power BI
 - GitHub
 
