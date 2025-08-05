@@ -1,6 +1,6 @@
 # Tour de France Analysis Project
 
-This project explores stage-level performance data from the 2024 Tour de France.  
+This project explores stage-level performance data from the 2025 Tour de France.  
 It includes data cleaning, SQL-based transformations, and visualization in Power BI.  
 
 ## 🔍 Goal
