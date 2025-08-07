@@ -1,0 +1,6 @@
+classification_type,classification_name,jersey_color,description
+GC,General Classification,yellow,Cumulative time across all stages (lowest wins)
+Points,Points Classification,green,Points for stage finishes and intermediate sprints
+KOM,King of the Mountains,polka dot,Points awarded for mountain summits
+Youth,Young Rider Classification,white,Best young rider under 25 by GC
+Team,Team Classification,n/a,Best total time of 3 top riders per team

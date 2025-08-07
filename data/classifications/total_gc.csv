@@ -1,0 +1,161 @@
+gc_rank,rider_name,team_name,bonus_sec,gap_time,total_time
+1,Pogačar Tadej,UAE Team Emirates - XRG,00:00:52,76:00:32,76:00:32
+2,Vingegaard Jonas,Team Visma | Lease a Bike,00:00:34,00:04:24,76:04:56
+3,Lipowitz Florian,Red Bull - BORA - hansgrohe,00:00:04,00:11:00,76:11:32
+4,Onley Oscar,Team Picnic PostNL,00:00:04,00:12:12,76:12:44
+5,Gall Felix,Decathlon AG2R La Mondiale Team,,00:17:12,76:17:44
+6,Johannessen Tobias Halland,Uno-X Mobility,,00:20:14,76:20:46
+7,Vauquelin Kévin,Arkéa - B&B Hotels,,00:22:35,76:23:07
+8,Roglič Primož,Red Bull - BORA - hansgrohe,,00:25:30,76:26:02
+9,Healy Ben,EF Education - EasyPost,00:00:20,00:28:02,76:28:34
+10,Jegat Jordan,Team TotalEnergies,,00:32:42,76:33:14
+11,O'Connor Ben,Team Jayco AlUla,00:00:10,00:34:34,76:35:06
+12,Arensman Thymen,INEOS Grenadiers,00:00:26,00:52:41,76:53:13
+13,Narváez Jhonatan,UAE Team Emirates - XRG,,01:04:36,77:05:08
+14,Higuita Sergio,XDS Astana Team,,01:08:19,77:08:51
+15,Yates Simon,Team Visma | Lease a Bike,00:00:10,01:17:30,77:18:02
+16,Martin Guillaume,Groupama - FDJ,,01:18:07,77:18:39
+17,Kuss Sepp,Team Visma | Lease a Bike,,01:20:24,77:20:56
+18,Mühlberger Gregor,Movistar Team,,01:28:17,77:28:49
+19,Jorgenson Matteo,Team Visma | Lease a Bike,,01:29:28,77:30:00
+20,Rodríguez Cristián,Arkéa - B&B Hotels,,01:36:15,77:36:47
+21,Madouas Valentin,Groupama - FDJ,,01:39:46,77:40:18
+22,Meurisse Xandro,Alpecin - Deceuninck,,01:43:46,77:44:18
+23,Barguil Warren,Team Picnic PostNL,,01:48:09,77:48:41
+24,Yates Adam,UAE Team Emirates - XRG,,01:48:41,77:49:13
+25,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,,02:12:52,78:13:24
+26,García Pierna Raúl,Arkéa - B&B Hotels,,02:15:58,78:16:30
+27,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,,02:16:15,78:16:47
+28,Campenaerts Victor,Team Visma | Lease a Bike,00:00:06,02:20:36,78:21:08
+29,Soler Marc,UAE Team Emirates - XRG,,02:21:01,78:21:33
+30,Buchmann Emanuel,Cofidis,,02:21:34,78:22:06
+31,Rubio Einer,Movistar Team,,02:21:56,78:22:28
+32,Van Wilder Ilan,Soudal Quick-Step,,02:23:14,78:23:46
+33,Scotson Callum,Decathlon AG2R La Mondiale Team,,02:25:40,78:26:12
+34,Grégoire Romain,Groupama - FDJ,,02:25:58,78:26:30
+35,Sweeny Harry,EF Education - EasyPost,,02:27:58,78:28:30
+36,Berthet Clément,Decathlon AG2R La Mondiale Team,,02:32:50,78:33:22
+37,Wellens Tim,UAE Team Emirates - XRG,00:00:10,02:38:24,78:38:56
+38,Velasco Simone,XDS Astana Team,,02:41:31,78:42:03
+39,van den Broek Frank,Team Picnic PostNL,00:00:06,02:45:44,78:46:16
+40,Buitrago Santiago,Bahrain - Victorious,00:00:04,02:45:48,78:46:20
+41,Paret-Peintre Valentin,Soudal Quick-Step,00:00:10,02:47:05,78:47:37
+42,Storer Michael,Tudor Pro Cycling Team,00:00:04,02:50:51,78:51:23
+43,Venturini Clément,Arkéa - B&B Hotels,,02:52:39,78:53:11
+44,Tejada Harold,XDS Astana Team,,02:54:34,78:55:06
+45,Pacher Quentin,Groupama - FDJ,,02:56:00,78:56:32
+46,Baudin Alex,EF Education - EasyPost,,02:56:15,78:56:47
+47,Powless Neilson,EF Education - EasyPost,,02:58:52,78:59:24
+48,Blackmore Joseph,Israel - Premier Tech,,02:59:04,78:59:36
+49,Eenkhoorn Pascal,Soudal Quick-Step,00:00:04,03:00:25,79:00:57
+50,Armirail Bruno,Decathlon AG2R La Mondiale Team,,03:03:12,79:03:44
+51,Costiou Ewen,Arkéa - B&B Hotels,,03:06:35,79:07:07
+52,Woods Michael,Israel - Premier Tech,,03:06:59,79:07:31
+53,Laurance Axel,INEOS Grenadiers,,03:10:10,79:10:42
+54,Benoot Tiesj,Team Visma | Lease a Bike,,03:10:19,79:10:51
+55,Delettre Alexandre,Team TotalEnergies,,03:12:28,79:13:00
+56,Alaphilippe Julian,Tudor Pro Cycling Team,00:00:04,03:13:20,79:13:52
+57,Leknessund Andreas,Uno-X Mobility,,03:14:44,79:15:16
+58,Thomas Geraint,INEOS Grenadiers,,03:14:57,79:15:29
+59,Simmons Quinn,Lidl - Trek,00:00:06,03:17:36,79:18:08
+60,Gachignard Thomas,Team TotalEnergies,,03:23:14,79:23:46
+61,Le Berre Mathis,Arkéa - B&B Hotels,,03:25:28,79:26:00
+62,Stuyven Jasper,Lidl - Trek,,03:26:11,79:26:43
+63,Burgaudeau Mathieu,Team TotalEnergies,,03:26:18,79:26:50
+64,Hoelgaard Markus,Uno-X Mobility,,03:26:29,79:27:01
+65,Verstrynge Emiel,Alpecin - Deceuninck,,03:28:01,79:28:33
+66,Berckmoes Jenno,Lotto,,03:33:12,79:33:44
+67,van Aert Wout,Team Visma | Lease a Bike,00:00:16,03:33:56,79:34:28
+68,Schachmann Maximilian,Soudal Quick-Step,,03:35:01,79:35:33
+69,Izagirre Ion,Cofidis,,03:35:02,79:35:34
+70,Foss Tobias,INEOS Grenadiers,,03:35:15,79:35:47
+71,Abrahamsen Jonas,Uno-X Mobility,00:00:10,03:36:21,79:36:53
+72,Valgren Michael,EF Education - EasyPost,,03:37:01,79:37:33
+73,Naesen Oliver,Decathlon AG2R La Mondiale Team,,03:39:28,79:40:00
+74,Oliveira Nelson,Movistar Team,,03:41:03,79:41:35
+75,Politt Nils,UAE Team Emirates - XRG,,03:44:45,79:45:17
+76,Johannessen Anders Halland,Uno-X Mobility,,03:46:02,79:46:34
+77,Tronchon Bastien,Decathlon AG2R La Mondiale Team,,03:46:36,79:47:08
+78,Hirschi Marc,Tudor Pro Cycling Team,,03:48:37,79:49:09
+79,Martinez Lenny,Bahrain - Victorious,,03:49:05,79:49:37
+80,Teunissen Mike,XDS Astana Team,,03:49:28,79:50:00
+81,Aranburu Alex,Cofidis,,03:49:29,79:50:01
+82,Barré Louis,Intermarché - Wanty,,03:51:34,79:52:06
+83,Mayrhofer Marius,Tudor Pro Cycling Team,,03:53:18,79:53:50
+84,Van Moer Brent,Lotto,,03:53:19,79:53:51
+85,Champoussin Clément,XDS Astana Team,,03:53:27,79:53:59
+86,Groves Kaden,Alpecin - Deceuninck,00:00:14,03:53:29,79:54:01
+87,Sivakov Pavel,UAE Team Emirates - XRG,,03:54:19,79:54:51
+88,Neilands Krists,Israel - Premier Tech,,03:54:25,79:54:57
+89,Pithie Laurence,Red Bull - BORA - hansgrohe,,03:54:44,79:55:16
+90,Teuns Dylan,Cofidis,,03:55:48,79:56:20
+91,Asgreen Kasper,EF Education - EasyPost,,03:58:25,79:58:57
+92,Lutsenko Alexey,Israel - Premier Tech,,03:59:52,80:00:24
+93,Russo Clément,Groupama - FDJ,,04:01:44,80:02:16
+94,Touzé Damien,Cofidis,,04:01:48,80:02:20
+95,Skujiņš Toms,Lidl - Trek,,04:04:16,80:04:48
+96,Andresen Tobias Lund,Team Picnic PostNL,00:00:04,04:06:51,80:07:23
+97,Haller Marco,Tudor Pro Cycling Team,,04:09:24,80:09:56
+98,Rickaert Jonas,Alpecin - Deceuninck,,04:11:17,80:11:49
+99,Trentin Matteo,Tudor Pro Cycling Team,,04:12:31,80:13:03
+100,Louvel Matis,Israel - Premier Tech,,04:13:01,80:13:33
+101,Schmid Mauro,Team Jayco AlUla,00:00:06,04:14:00,80:14:32
+102,Barta Will,Movistar Team,,04:20:07,80:20:39
+103,Vermeersch Gianni,Alpecin - Deceuninck,,04:22:29,80:23:01
+104,Wright Fred,Bahrain - Victorious,,04:22:52,80:23:24
+105,Moscon Gianni,Red Bull - BORA - hansgrohe,,04:30:56,80:31:28
+106,Turgis Anthony,Team TotalEnergies,,04:31:58,80:32:30
+107,Romeo Iván,Movistar Team,,04:33:49,80:34:21
+108,Stewart Jake,Israel - Premier Tech,,04:36:37,80:37:09
+109,Swift Connor,INEOS Grenadiers,,04:40:30,80:41:02
+110,Castrillo Pablo,Movistar Team,,04:42:51,80:43:23
+111,Penhoët Paul,Groupama - FDJ,,04:44:44,80:45:16
+112,Märkl Niklas,Team Picnic PostNL,,04:46:23,80:46:55
+113,van Dijke Mick,Red Bull - BORA - hansgrohe,,04:46:50,80:47:22
+114,Albanese Vincenzo,EF Education - EasyPost,,04:48:20,80:48:52
+115,Watson Samuel,INEOS Grenadiers,,04:50:14,80:50:46
+116,Nys Thibau,Lidl - Trek,,04:50:42,80:51:14
+117,García Cortina Iván,Movistar Team,,04:53:18,80:53:50
+118,Affini Edoardo,Team Visma | Lease a Bike,,04:54:53,80:55:25
+119,Dainese Alberto,Tudor Pro Cycling Team,,04:56:31,80:57:03
+120,Naberman Tim,Team Picnic PostNL,,05:00:03,81:00:35
+121,Plapp Luke,Team Jayco AlUla,,05:02:34,81:03:06
+122,Sepúlveda Eduardo,Lotto,,05:02:54,81:03:26
+123,Stannard Robert,Bahrain - Victorious,,05:03:30,81:04:02
+124,Vercher Mattéo,Team TotalEnergies,,05:06:33,81:07:05
+125,Ackermann Pascal,Israel - Premier Tech,,05:09:57,81:10:29
+126,Mohorič Matej,Bahrain - Victorious,00:00:04,05:10:13,81:10:45
+127,Askey Lewis,Groupama - FDJ,,05:10:40,81:11:12
+128,Rutsch Jonas,Intermarché - Wanty,,05:11:07,81:11:39
+129,Drizners Jarrad,Lotto,,05:11:17,81:11:49
+130,Cort Magnus,Uno-X Mobility,,05:11:51,81:12:23
+131,Dillier Silvan,Alpecin - Deceuninck,,05:14:12,81:14:44
+132,Girmay Biniam,Intermarché - Wanty,00:00:06,05:14:55,81:15:27
+133,Bittner Pavel,Team Picnic PostNL,,05:17:44,81:18:16
+134,Flynn Sean,Team Picnic PostNL,,05:18:13,81:18:45
+135,Ballerini Davide,XDS Astana Team,00:00:06,05:20:22,81:20:54
+136,Capiot Amaury,Arkéa - B&B Hotels,,05:22:38,81:23:10
+137,Durbridge Luke,Team Jayco AlUla,,05:23:21,81:23:53
+138,Page Hugo,Intermarché - Wanty,,05:24:23,81:24:55
+139,Fredheim Stian,Uno-X Mobility,,05:26:41,81:27:13
+140,Reinders Elmar,Team Jayco AlUla,,05:28:50,81:29:22
+141,Rex Laurenz,Intermarché - Wanty,,05:29:16,81:29:48
+142,De Lie Arnaud,Lotto,00:00:04,05:29:35,81:30:07
+143,Braet Vito,Intermarché - Wanty,,05:32:04,81:32:36
+144,Grignard Sébastien,Lotto,,05:33:48,81:34:20
+145,Renard Alexis,Cofidis,,05:34:56,81:35:28
+146,Milan Jonathan,Lidl - Trek,00:00:32,05:35:35,81:36:07
+147,Van Lerberghe Bert,Soudal Quick-Step,,05:36:47,81:37:19
+148,Merlier Tim,Soudal Quick-Step,00:00:20,05:37:19,81:37:51
+149,Boivin Guillaume,Israel - Premier Tech,,05:37:44,81:38:16
+150,Groenewegen Dylan,Team Jayco AlUla,,05:38:24,81:38:56
+151,Bauhaus Phil,Bahrain - Victorious,00:00:04,05:39:29,81:40:01
+152,Mezgec Luka,Team Jayco AlUla,,05:40:08,81:40:40
+153,Démare Arnaud,Arkéa - B&B Hotels,,05:40:35,81:41:07
+154,Thomas Benjamin,Cofidis,,05:41:16,81:41:48
+155,Gradek Kamil,Bahrain - Victorious,,05:43:51,81:44:23
+156,van Sintmaartensdijk Roel,Intermarché - Wanty,,05:44:11,81:44:43
+157,Lienhard Fabian,Tudor Pro Cycling Team,,05:46:00,81:46:32
+158,Meeus Jordi,Red Bull - BORA - hansgrohe,00:00:06,05:48:25,81:48:57
+159,Theuns Edward,Lidl - Trek,,05:51:25,81:51:57
+160,Consonni Simone,Lidl - Trek,,05:51:40,81:52:12
