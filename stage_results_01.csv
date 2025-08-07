@@ -1,0 +1,185 @@
+stage,stage_date,stage_start,stage_finish,stage_rank,gc_rank,gc_gap,specialty,age,rider_name,team_name,bonus_sec,gap_time,stage_time,did_finish
+1,05.07.2025,Lille Métropole,Lille Métropole,1,1,+0:00,Sprint,27,Philipsen Jasper,Alpecin - Deceuninck,00:00:10,03:53:11,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,2,2,+0:04,Classic,25,Girmay Biniam,Intermarché - Wanty,00:00:06,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,3,3,+0:06,Classic,25,Wærenskjold Søren,Uno-X Mobility,00:00:04,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,4,4,+0:10,Classic,31,Turgis Anthony,Team TotalEnergies,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,5,5,+0:10,Classic,35,Trentin Matteo,Tudor Pro Cycling Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,6,6,+0:10,Classic,30,Russo Clément,Groupama - FDJ,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,7,7,+0:10,Sprint,23,Penhoët Paul,Groupama - FDJ,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,8,8,+0:10,GC,26,Jorgenson Matteo,Team Visma | Lease a Bike,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,9,9,+0:10,Hills,24,Mayrhofer Marius,Tudor Pro Cycling Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,10,10,+0:10,Hills,23,Watson Samuel,INEOS Grenadiers,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,11,11,+0:10,Classic,32,Teunissen Mike,XDS Astana Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,12,12,+0:10,Classic,29,García Cortina Iván,Movistar Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,13,13,+0:10,Sprint,26,Märkl Niklas,Team Picnic PostNL,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,14,14,+0:10,Hills,26,Sweeny Harry,EF Education - EasyPost,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,15,15,+0:10,Classic,30,Neilands Krists,Israel - Premier Tech,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,16,16,+0:10,GC,24,Vauquelin Kévin,Arkéa - B&B Hotels,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,17,17,+0:10,Classic,28,Touzé Damien,Cofidis,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,18,18,+0:10,Climber,26,Pogačar Tadej,UAE Team Emirates - XRG,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,19,19,+0:10,Sprint,31,Ackermann Pascal,Israel - Premier Tech,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,20,20,+0:10,GC,28,Vingegaard Jonas,Team Visma | Lease a Bike,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,21,21,+0:10,Classic,33,Stuyven Jasper,Lidl - Trek,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,22,22,+0:10,Classic,34,Haller Marco,Tudor Pro Cycling Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,23,23,+0:10,Hills,26,Groves Kaden,Alpecin - Deceuninck,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,24,24,+0:10,TT,30,Asgreen Kasper,EF Education - EasyPost,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,25,25,+0:10,GC,22,Blackmore Joseph,Israel - Premier Tech,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,26,26,+0:10,Hills,37,Mezgec Luka,Team Jayco AlUla,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,27,27,+0:10,Classic,31,Benoot Tiesj,Team Visma | Lease a Bike,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,28,28,+0:10,Classic,30,van der Poel Mathieu,Alpecin - Deceuninck,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,29,29,+0:10,Sprint,22,Fredheim Stian,Uno-X Mobility,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,30,30,+0:10,Climber,25,Johannessen Tobias Halland,Uno-X Mobility,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,31,31,+0:10,Climber,30,Mas Enric,Movistar Team,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,32,32,+0:10,GC,34,Wellens Tim,UAE Team Emirates - XRG,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,33,33,+0:10,Hills,29,Barthe Cyril,Groupama - FDJ,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,34,36,+0:23,Classic,29,Abrahamsen Jonas,Uno-X Mobility,,00:00:13,03:53:24,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,35,37,+0:23,Classic,31,Rickaert Jonas,Alpecin - Deceuninck,,00:00:13,03:53:24,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,36,38,+0:23,GC,33,Meurisse Xandro,Alpecin - Deceuninck,,00:00:13,03:53:24,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,37,39,+0:30,Classic,30,Ballerini Davide,XDS Astana Team,,00:00:20,03:53:31,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,38,40,+0:35,TT,29,Affini Edoardo,Team Visma | Lease a Bike,,00:00:25,03:53:36,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,39,41,+0:49,Sprint,24,Milan Jonathan,Lidl - Trek,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,40,42,+0:49,Classic,23,De Lie Arnaud,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,41,43,+0:49,Sprint,33,Coquard Bryan,Cofidis,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,42,44,+0:49,Classic,27,Meeus Jordi,Red Bull - BORA - hansgrohe,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,43,45,+0:49,Sprint,22,Bittner Pavel,Team Picnic PostNL,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,44,46,+0:49,Sprint,27,Dainese Alberto,Tudor Pro Cycling Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,45,47,+0:49,Hills,26,Stannard Robert,Bahrain - Victorious,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,46,48,+0:49,Sprint,30,Bauhaus Phil,Bahrain - Victorious,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,47,49,+0:49,Sprint,32,Merlier Tim,Soudal Quick-Step,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,48,50,+0:49,Classic,30,van Aert Wout,Team Visma | Lease a Bike,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,49,51,+0:49,Classic,31,van Poppel Danny,Red Bull - BORA - hansgrohe,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,50,52,+0:49,Classic,28,Powless Neilson,EF Education - EasyPost,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,51,53,+0:49,Classic,30,Hoelgaard Markus,Uno-X Mobility,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,52,54,+0:49,Climber,27,Berthet Clément,Decathlon AG2R La Mondiale Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,53,55,+0:49,Sprint,22,Andresen Tobias Lund,Team Picnic PostNL,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,54,56,+0:49,GC,24,Skjelmose Mattias,Lidl - Trek,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,55,57,+0:49,Classic,31,De Buyst Jasper,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,56,58,+0:49,GC,32,Buchmann Emanuel,Cofidis,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,57,59,+0:49,Classic,36,Boivin Guillaume,Israel - Premier Tech,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,58,60,+0:49,GC,26,Almeida João,UAE Team Emirates - XRG,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,59,61,+0:49,Classic,32,Capiot Amaury,Arkéa - B&B Hotels,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,60,62,+0:49,Sprint,32,Groenewegen Dylan,Team Jayco AlUla,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,61,63,+0:49,Hills,32,Cort Magnus,Uno-X Mobility,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,62,64,+0:49,Classic,33,Démare Arnaud,Arkéa - B&B Hotels,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,63,65,+0:49,Classic,26,Renard Alexis,Cofidis,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,64,66,+0:49,Climber,24,Healy Ben,EF Education - EasyPost,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,65,67,+0:49,Classic,25,Louvel Matis,Israel - Premier Tech,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,66,68,+0:49,GC,29,Paret-Peintre Aurélien,Decathlon AG2R La Mondiale Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,67,69,+0:49,TT,25,Evenepoel Remco,Soudal Quick-Step,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,68,70,+0:49,Climber,26,Jegat Jordan,Team TotalEnergies,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,69,71,+0:49,Climber,24,Rodríguez Carlos,INEOS Grenadiers,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,70,72,+0:49,Classic,32,Vermeersch Gianni,Alpecin - Deceuninck,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,71,73,+0:49,Climber,25,Buitrago Santiago,Bahrain - Victorious,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,72,74,+0:49,Classic,33,Valgren Michael,EF Education - EasyPost,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,73,75,+0:49,Classic,34,Naesen Oliver,Decathlon AG2R La Mondiale Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,74,76,+0:49,GC,22,Onley Oscar,Team Picnic PostNL,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,75,77,+0:49,Climber,27,Gall Felix,Decathlon AG2R La Mondiale Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,76,78,+0:49,GC,25,Van Wilder Ilan,Soudal Quick-Step,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,77,79,+0:49,Classic,28,Eenkhoorn Pascal,Soudal Quick-Step,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,78,80,+0:49,GC,24,Lipowitz Florian,Red Bull - BORA - hansgrohe,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,79,81,+0:49,Climber,35,Roglič Primož,Red Bull - BORA - hansgrohe,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,80,82,+0:49,Climber,23,Van Eetvelt Lennert,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,81,83,+0:49,Classic,28,Madouas Valentin,Groupama - FDJ,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,82,84,+0:49,Climber,32,Martin Guillaume,Groupama - FDJ,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,83,85,+0:49,TT,36,Oliveira Nelson,Movistar Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,84,86,+0:49,Classic,31,Lienhard Fabian,Tudor Pro Cycling Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,85,87,+0:49,Hills,25,Flynn Sean,Team Picnic PostNL,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,86,88,+0:49,Classic,29,Swift Connor,INEOS Grenadiers,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,87,89,+0:49,GC,39,Thomas Geraint,INEOS Grenadiers,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,88,90,+0:49,GC,24,Gachignard Thomas,Team TotalEnergies,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,89,91,+0:49,GC,28,Narváez Jhonatan,UAE Team Emirates - XRG,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,90,92,+0:49,Classic,23,Page Hugo,Intermarché - Wanty,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,91,93,+0:49,GC,29,Cras Steff,Team TotalEnergies,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,92,94,+0:49,Classic,23,Tronchon Bastien,Decathlon AG2R La Mondiale Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,93,95,+0:49,Classic,27,Delettre Alexandre,Team TotalEnergies,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,94,96,+0:49,GC,31,Haig Jack,Bahrain - Victorious,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,95,97,+0:49,Hills,29,Aranburu Alex,Cofidis,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,96,98,+0:49,Classic,26,Hirschi Marc,Tudor Pro Cycling Team,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,97,99,+0:49,GC,24,Berckmoes Jenno,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,98,100,+0:49,GC,33,Teuns Dylan,Cofidis,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,99,101,+0:49,Classic,27,Van Moer Brent,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,100,102,+0:49,TT,28,Foss Tobias,INEOS Grenadiers,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,101,103,+0:49,Hills,26,Wright Fred,Bahrain - Victorious,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,102,104,+0:49,GC,26,Drizners Jarrad,Lotto,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,103,105,+0:49,Hills,28,Albanese Vincenzo,EF Education - EasyPost,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,104,107,+1:16,Classic,33,Reinders Elmar,Team Jayco AlUla,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,105,108,+1:16,Climber,29,Vlasov Aleksandr,Red Bull - BORA - hansgrohe,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,106,109,+1:16,GC,28,Scotson Callum,Decathlon AG2R La Mondiale Team,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,107,110,+1:16,Climber,33,Barguil Warren,Team Picnic PostNL,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,108,111,+1:16,Classic,30,Mohorič Matej,Bahrain - Victorious,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,109,112,+1:16,GC,24,Baudin Alex,EF Education - EasyPost,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,110,113,+1:16,Classic,31,Venturini Clément,Arkéa - B&B Hotels,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,111,114,+1:16,Classic,32,Van Lerberghe Bert,Soudal Quick-Step,,00:01:06,03:54:17,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,112,115,+1:36,Classic,34,Skujiņš Toms,Lidl - Trek,,00:01:26,03:54:37,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,113,116,+1:36,Sprint,34,Theuns Edward,Lidl - Trek,,00:01:26,03:54:37,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,114,117,+1:36,Classic,24,Braet Vito,Intermarché - Wanty,,00:01:26,03:54:37,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,115,118,+1:43,Classic,22,Pithie Laurence,Red Bull - BORA - hansgrohe,,00:01:33,03:54:44,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,116,119,+1:43,Classic,30,Consonni Simone,Lidl - Trek,,00:01:33,03:54:44,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,117,120,+1:58,TT,34,Cattaneo Mattia,Soudal Quick-Step,,00:01:48,03:54:59,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,118,121,+2:09,TT,33,Campenaerts Victor,Team Visma | Lease a Bike,,00:01:59,03:55:10,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,119,106,+0:49,Climber,30,Kuss Sepp,Team Visma | Lease a Bike,,00:00:39,03:53:50,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,120,122,+2:24,Classic,31,Moscon Gianni,Red Bull - BORA - hansgrohe,,00:02:14,03:55:25,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,121,123,+2:24,GC,25,van Dijke Mick,Red Bull - BORA - hansgrohe,,00:02:14,03:55:25,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,122,124,+2:24,GC,36,Izagirre Ion,Cofidis,,00:02:14,03:55:25,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,123,125,+2:36,Climber,31,Soler Marc,UAE Team Emirates - XRG,,00:02:26,03:55:37,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,124,126,+2:36,TT,34,Gradek Kamil,Bahrain - Victorious,,00:02:26,03:55:37,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,125,127,+5:28,Classic,31,Politt Nils,UAE Team Emirates - XRG,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,126,128,+5:28,GC,26,Leknessund Andreas,Uno-X Mobility,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,127,129,+5:28,GC,25,Johannessen Anders Halland,Uno-X Mobility,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,128,130,+5:28,Hills,33,Pacher Quentin,Groupama - FDJ,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,129,131,+5:28,GC,28,Tejada Harold,XDS Astana Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,130,132,+5:28,TT,31,Armirail Bruno,Decathlon AG2R La Mondiale Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,131,133,+5:28,Classic,26,Grignard Sébastien,Lotto,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,132,134,+5:28,Hills,24,Le Berre Mathis,Arkéa - B&B Hotels,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,133,135,+5:28,GC,25,Arensman Thymen,INEOS Grenadiers,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,134,136,+5:28,Classic,27,Rutsch Jonas,Intermarché - Wanty,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,135,137,+5:28,GC,34,Sepúlveda Eduardo,Lotto,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,136,138,+5:28,Classic,27,Zimmermann Georg,Intermarché - Wanty,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,137,139,+5:28,Climber,31,Mühlberger Gregor,Movistar Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,138,140,+5:28,TT,29,Thomas Benjamin ,Cofidis,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,139,141,+5:28,Climber,27,Rubio Einer,Movistar Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,140,142,+5:28,GC,30,Rodríguez Cristián,Arkéa - B&B Hotels,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,141,143,+5:28,GC,24,van den Broek Frank,Team Picnic PostNL,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,142,144,+5:28,Hills,24,Simmons Quinn,Lidl - Trek,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,143,145,+5:28,GC,26,Naberman Tim,Team Picnic PostNL,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,144,146,+5:28,Climber,27,Higuita Sergio,XDS Astana Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,145,147,+5:28,Climber,27,Champoussin Clément,XDS Astana Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,146,148,+5:28,Classic,25,Rex Laurenz,Intermarché - Wanty,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,147,149,+5:28,GC,24,Castrillo Pablo,Movistar Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,148,150,+5:28,GC,24,García Pierna Raúl,Arkéa - B&B Hotels,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,149,151,+5:28,Hills,22,Grégoire Romain,Groupama - FDJ,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,150,152,+5:28,GC,22,Costiou Ewen,Arkéa - B&B Hotels,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,151,153,+5:28,Climber,24,Paret-Peintre Valentin,Soudal Quick-Step,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,152,154,+5:28,Classic,26,Jeannière Emilien,Team TotalEnergies,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,153,155,+5:28,Climber,28,Storer Michael,Tudor Pro Cycling Team,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,154,156,+5:28,GC,28,Dunbar Eddie,Team Jayco AlUla,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,155,157,+5:28,GC,27,Sivakov Pavel,UAE Team Emirates - XRG,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,156,158,+5:28,Climber,32,Yates Adam,UAE Team Emirates - XRG,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,157,159,+5:28,Climber,23,Verstrynge Emiel,Alpecin - Deceuninck,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,158,160,+5:28,Hills,25,Stewart Jake,Israel - Premier Tech,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,159,161,+5:28,GC,32,Lutsenko Alexey,Israel - Premier Tech,,00:05:18,03:58:29,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,160,34,+0:10,GC,29,O'Connor Ben,Team Jayco AlUla,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,161,162,+5:37,Hills,25,Schmid Mauro,Team Jayco AlUla,,00:05:27,03:58:38,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,162,35,+0:10,Hills,25,van den Berg Marijn,EF Education - EasyPost,,00:00:00,03:53:11,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,163,163,+6:41,TT,34,Durbridge Luke,Team Jayco AlUla,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,164,164,+6:41,Climber,32,Yates Simon,Team Visma | Lease a Bike,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,165,165,+6:41,Hills,24,Laurance Axel,INEOS Grenadiers,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,166,166,+6:41,Classic,34,Dillier Silvan,Alpecin - Deceuninck,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,167,167,+6:41,Climber,38,Woods Michael,Israel - Premier Tech,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,168,168,+6:41,Classic,29,Velasco Simone,XDS Astana Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,169,169,+6:41,GC,31,Schachmann Maximilian,Soudal Quick-Step,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,170,170,+6:41,GC,24,Plapp Luke,Team Jayco AlUla,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,171,171,+6:41,Classic,25,Fedorov Yevgeniy,XDS Astana Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,172,172,+6:41,Sprint,29,Bol Cees,XDS Astana Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,173,173,+6:41,Classic,33,Alaphilippe Julian,Tudor Pro Cycling Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,174,174,+6:41,GC,24,van Sintmaartensdijk Roel,Intermarché - Wanty,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,175,175,+6:41,Classic,25,Barré Louis,Intermarché - Wanty,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,176,176,+6:41,TT,21,Romeo Iván,Movistar Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,177,177,+6:41,TT,29,Barta Will,Movistar Team,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,178,178,+6:41,Hills,26,Burgaudeau Mathieu,Team TotalEnergies,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,179,179,+6:41,Hills,24,Vercher Mattéo ,Team TotalEnergies,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,180,180,+6:41,Hills,22,Nys Thibau,Lidl - Trek,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,181,181,+6:41,Classic,24,Askey Lewis,Groupama - FDJ,,00:06:31,03:59:42,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,182,182,+9:21,Climber,21,Martinez Lenny,Bahrain - Victorious,,00:09:11,04:02:22,TRUE
+1,05.07.2025,Lille Métropole,Lille Métropole,DNF,,,TT,26,Bissegger Stefan,Decathlon AG2R La Mondiale Team,,,,FALSE
+1,05.07.2025,Lille Métropole,Lille Métropole,DNF,,,TT,28,Ganna Filippo,INEOS Grenadiers,,,,FALSE
