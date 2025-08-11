@@ -9,7 +9,7 @@ To analyze rider and team performance, detect trends across stage types, and sim
 
 ## 📁 Project structure
 
-/data           → Raw and cleaned CSVs  
+/data           → Cleaned CSVs  
 /sql            → SQL transformations  
 /reports        → Power BI dashboard screenshots  
 README.md       → Project documentation  
